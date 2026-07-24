@@ -1,0 +1,47 @@
+# Data files (downloadable, don't commit)
+data/
+*.json
+*.jsonl
+
+# Model artifacts and cached files
+*.faiss
+*.pkl
+*.npy
+*.bin
+*.pt
+*.safetensors
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environment
+.env
+*.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Colab
+.config/
+
+# Large files
+outputs/*.pkl
+outputs/*.faiss
+
+# API keys
+*api_key*
+*secret*
+
