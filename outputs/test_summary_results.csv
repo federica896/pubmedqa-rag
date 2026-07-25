@@ -1,0 +1,4 @@
+Retriever,Recall@5,MRR,Accuracy,Macro F1,Faithfulness,Correct & Faithful
+BM25,0.846,0.755,0.672,0.589,0.566,0.398
+MedCPT,0.884,0.754,0.652,0.558,0.608,0.404
+Hybrid,0.924,0.834,0.684,0.577,0.632,0.456

@@ -1,0 +1,5 @@
+,Accuracy,Macro F1,Macro Precision,Macro Recall
+Majority Baseline,0.552,0.2371,0.184,0.3333
+BM25,0.642,0.5636,0.606,0.5717
+DENSE,0.654,0.5663,0.6065,0.5718
+HYBRID,0.684,0.5808,0.6088,0.5807
